@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./welcome.png" height="300px"/>
+<img src="https://raw.githubusercontent.com/tarikguney/tarikguney/master/welcome.png" height="300px"/>
 
 ### What do I do?
 

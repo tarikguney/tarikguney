@@ -10,4 +10,4 @@ I am present on various platforms:
 
 1. Linkedin: www.linkedin.com/in/tarikguney
 2. Twitter: www.twiter.com/atarikguney
-3. YouTube: https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA
+3. YouTube: https://www.youtube.com/c/TarikGuney
